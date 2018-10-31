@@ -11,9 +11,9 @@ image: /msr-student-template/public/images/contact.jpg
 * **Email:** levitodes2019@u.northwestern.edu
 
 ### Address: 
-	* McCormick School of Engineering,
-	* Technological Institute
-	* 2145 Sheridan Road,
-	* Evanston, IL
-	* 60201
+* McCormick School of Engineering,
+* Technological Institute
+* 2145 Sheridan Road,
+* Evanston, IL
+* 60201
 
