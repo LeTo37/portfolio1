@@ -15,7 +15,7 @@ My name is Levi Todes, I was born and raised in South Africa. I grew up in Cape 
 
 Enrolled Feb 2014 – Graduated Dec 2017.
 
-### Master of Science in Robotics - Northwestern University**
+### Master of Science in Robotics - Northwestern University
 
 Enrolled Sep 2018 - (Expected) Graduated Dec 2019
 
