@@ -2,12 +2,12 @@
 layout: about
 path: /about
 url: index.html
-image: /msr-student-template/public/images/levi_happy.jpg
+image: public/images/levi_happy.jpg
 ---
 
 ## Brief Overview
 
-My name is Levi Todes, I was born and raised in South Africa. I grew up in Cape Town which means I spent a lot of time outdoors. I enjoy most sports and outdoor activities, with a particular interest in Football, Hiking, Surfing, Cricket, Rugby and Cycling. I moved to Chicago in Auguat 2018 and am currently completing my Masters in Robotics at Northwestern University. I did my undergraduate degree in mechatronics at the University of Cape Town and I particularly enjoy digital electronics and programming.
+My name is Levi Todes, I was born and raised in South Africa. I grew up in Cape Town which means I spent a lot of time outdoors. I enjoy most sports and outdoor activities, with a particular interest in Football, Hiking, Surfing, Cricket, Rugby and Cycling. I moved to Chicago in August 2018 and am currently completing my Masters in Robotics at Northwestern University. I did my undergraduate degree in mechatronics at the University of Cape Town and I particularly enjoy digital electronics and programming.
 
 ## Education
 

@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: /msr-student-template/public/images/contact.jpg
+image: public/images/contact.jpg
 ---
 
 ## Contact Me
