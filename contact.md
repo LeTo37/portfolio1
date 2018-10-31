@@ -2,7 +2,7 @@
 layout: contact
 path: /contact
 url: index.html
-image: public/images/contact.jpg
+image: /portfolio/public/images/contact.jpg
 ---
 
 ## Contact Me

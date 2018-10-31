@@ -2,7 +2,7 @@
 layout: about
 path: /about
 url: index.html
-image: public/images/levi_happy.jpg
+image: /portfolio/public/images/levi_happy.jpg
 ---
 
 ## Brief Overview
