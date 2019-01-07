@@ -19,8 +19,8 @@ html {
     /* Footer */ }
     html body header {
       width: 100%;
-      background-color: #222;
-      color: #008000; }
+      background-color: #008000;
+      color: #222; }
       html body header nav {
         margin: 0 auto;
         padding: 20px 0;
@@ -196,8 +196,8 @@ html {
     html body footer {
       margin-top: 40px;
       width: 100%;
-      background-color: #222;
-      color: #fff; }
+      background-color: #008000;
+      color: #222; }
       html body footer ul {
         margin: 0 auto;
         padding: 10px 0;
