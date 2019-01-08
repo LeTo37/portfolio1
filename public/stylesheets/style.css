@@ -19,8 +19,8 @@ html {
     /* Footer */ }
     html body header {
       width: 100%;
-      background-color: #008000;
-      color: #222; }
+      background-color: #009000;
+      color: #000; }
       html body header nav {
         margin: 0 auto;
         padding: 20px 0;
@@ -30,7 +30,7 @@ html {
           color: inherit; }
           html body header nav > a h1 {
             float: left;
-            font-size: 16px;
+            font-size: 25px;
             color: inherit; }
         html body header nav ul {
           float: right;
@@ -62,7 +62,9 @@ html {
         width: calc((100% - 60px - 40px) / 4);
         display: inline-block;
         margin-bottom: 20px;
-        border: 2px solid #bbb;
+        border: 3px solid #000000;
+        border-radius: 500px;
+        overflow: hidden;
         text-align: center;
         position: relative; }
         html body main#portfolio div#portfolio-gallery div.container div.aspect-ratio-keeper {
@@ -104,7 +106,7 @@ html {
           padding-top: 15px;
           padding-bottom: 15px;
           z-index: 100;
-          background: white;
+          background: #009000;
           overflow: hidden;
           position: absolute;
           bottom: 0px;
@@ -196,8 +198,8 @@ html {
     html body footer {
       margin-top: 40px;
       width: 100%;
-      background-color: #008000;
-      color: #222; }
+      background-color: #009000;
+      color: #000; }
       html body footer ul {
         margin: 0 auto;
         padding: 10px 0;
