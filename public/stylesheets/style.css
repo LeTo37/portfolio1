@@ -19,8 +19,8 @@ html {
     /* Footer */ }
     html body header {
       width: 100%;
-      background-color: #009000;
-      color: #000; }
+      background-color: #000;
+      color: #009000; }
       html body header nav {
         margin: 0 auto;
         padding: 20px 0;
@@ -30,7 +30,7 @@ html {
           color: inherit; }
           html body header nav > a h1 {
             float: left;
-            font-size: 25px;
+            font-size: 30px;
             color: inherit; }
         html body header nav ul {
           float: right;
@@ -41,7 +41,18 @@ html {
             text-align: center; }
             html body header nav ul li a {
               text-decoration: none;
-              color: inherit; }
+              color: inherit;
+              font-size: 20px; }
+               html body header nav ul li a:hover{
+               		font-size: 30px;
+		        	filter: brightness(150%);
+		        	-webkit-filter: brightness(150%);
+		        	-moz-filter: brightness(150%);
+			        -o-filter: brightness(150%);
+			        -ms-filter: brightness(150%);
+			        -webkit-transition: all 0.2s;
+			        transition: all 0.2s;
+		        }
     html body main {
       margin: 0 auto;
       width: 100%; }
@@ -62,8 +73,8 @@ html {
         width: calc((100% - 60px - 40px) / 4);
         display: inline-block;
         margin-bottom: 20px;
-        border: 3px solid #000000;
-        border-radius: 500px;
+        border: 3px solid #009000;
+        border-radius: 80px;
         overflow: hidden;
         text-align: center;
         position: relative; }
@@ -76,7 +87,7 @@ html {
           left: 0;
           right: 0; }
         html body main#portfolio div#portfolio-gallery div.container a {
-          color: inherit;
+          color: #009000;
           text-decoration: none; }
         html body main#portfolio div#portfolio-gallery div.container span.link-spanner {
           position: absolute;
@@ -106,16 +117,43 @@ html {
           padding-top: 15px;
           padding-bottom: 15px;
           z-index: 100;
-          background: #009000;
+          background: #000000;
           overflow: hidden;
           position: absolute;
           bottom: 0px;
           width: 100%;
           max-height: 15%; }
           html body main#portfolio div#portfolio-gallery div.container div.inner-text h2 {
-            font-size: 16px;
+            font-size: 18px;
             margin-left: 1%;
             margin-right: 1%; }
+	    @keyframes bounce {
+			0%, 20%, 60%, 100% {
+				-webkit-transform: translateY(0);
+				transform: translateY(0);
+			}
+
+			40% {
+				-webkit-transform: translateY(-20px);
+				transform: translateY(-20px);
+			}
+
+			80% {
+				-webkit-transform: translateY(-10px);
+				transform: translateY(-10px);
+			}
+		}
+        html body main#portfolio div#portfolio-gallery div.container div:hover{
+          	animation: bounce 1.2s;
+          	font-size: 35px;
+        	filter: brightness(130%);
+        	-webkit-filter: brightness(130%);
+        	-moz-filter: brightness(130%);
+	        -o-filter: brightness(130%);
+	        -ms-filter: brightness(130%);
+	        -webkit-transition: all 0.5s;
+	        transition: all 0.5s;
+        }
       @media screen and (max-width: 800px) {
         html body main#portfolio div#portfolio-gallery div.container:not(:nth-child(2n)) {
           margin-right: 20px; }
@@ -196,13 +234,13 @@ html {
       html body main.project section#contact-content ol, html body main.project section#contact-content ul {
         margin-left: 40px; }
     html body footer {
-      margin-top: 40px;
+      margin-top: 10px;
       width: 100%;
-      background-color: #009000;
-      color: #000; }
+      background-color: #000000;
+      color: #009000; }
       html body footer ul {
         margin: 0 auto;
-        padding: 10px 0;
+        padding: 40px 0;
         width: 80%;
         overflow: auto;
         list-style: none; }
