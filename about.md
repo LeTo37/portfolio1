@@ -21,6 +21,9 @@ Enrolled Sep 2018 - (Expected) Graduated Dec 2019
 
 ## Experience
 
+### Balancell | Interim Job - *(May - August 2018)*
+
+Prior to my moving to Chicago for my masters degree, I worked at an engineering startup in Cape Town, South Africa called Balancell. Their focus is on building 'smart' Lithium Ferro Phosphate Battery Packs for industrial use. My role was to develop test rigs (designing and building circuits and programming micro-controllers) for their equipment and circuits.
 
 ### Bioelectronics and Neuroscience (BENS) Research Group | Intern  - *(Nov – Dec 2016)*
 
@@ -35,10 +38,6 @@ I attended a practical training course at the Cape Peninsula University of Techn
 I learnt: to arc weld; to use a lathe machine; design automation with pneumatics; applied
 metrology; CNC machining; heat tempering and hardening; and Computer Aided Drafting
 
-### Balancell | Interim Job - *(May - August 2018)*
-
-Prior to my moving to Chicago for my masters degree, I worked at an engineering startup in Cape Town, South Africa called Balancell. Their focus is on building 'smart' Lithium Ferro Phosphate Battery Packs for industrial use. My role was to develop test rigs (designing and building circuits and programming micro-controllers) for their equipment and circuits.
-
 ## What I am up to at the moment
 I am currently still completing my Masters degree. The courses I have taken include:
 
@@ -46,19 +45,24 @@ I am currently still completing my Masters degree. The courses I have taken incl
 * Robotic Manipulation
 * Machine Dynamics
 * Computational Photography
+* Introduction to Mechatronics
+* Introduction to Feedback Systems
+* Connected and Autonomous Vehicles
+
+I am also currently working on my Winter quarter project which is to make an autonomous Ukulele player.
 
 ## Additional Skills and Experience
 ### Programming Languages
-* C
-* C++
-* Java
 * Python
+* C
+* Java
 * MATLAB
+* C++
 * Mathematica
 
 ### Software Experience
 * Linux and Windows Operating systems.
-* Altium, LT Spice, Simulink, OpenCV, Solid Works, LabView, Arduino IDE, Android Studio
+* Altium, LT Spice, Simulink, OpenCV, Onshape, LabView, Arduino IDE, Android Studio
 * ROS (Robot Operating System).
 
 ### Practical Engineering
