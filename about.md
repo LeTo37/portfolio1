@@ -5,11 +5,11 @@ url: index.html
 image: /portfolio/public/images/levi_happy.jpg
 ---
 
-## Brief Overview
+# Brief Overview
 
 My name is Levi Todes, I was born and raised in South Africa. I grew up in Cape Town which means I spent a lot of time outdoors. I enjoy most sports and outdoor activities, with a particular interest in Football, Hiking, Surfing, Cricket, Rugby and Cycling. I moved to Chicago in August 2018 and am currently completing my Masters in Robotics at Northwestern University. I did my undergraduate degree in mechatronics at the University of Cape Town and I particularly enjoy digital electronics and programming.
 
-## Education
+# Education
 
 ### Bachelor of Science in Engineering Mechatronics - University of Cape Town
 
@@ -19,7 +19,7 @@ Enrolled Feb 2014 – Graduated Dec 2017.
 
 Enrolled Sep 2018 - (Expected) Graduated Dec 2019
 
-## Experience
+# Experience
 
 ### Balancell | Interim Job - *(May - August 2018)*
 
@@ -38,7 +38,7 @@ I attended a practical training course at the Cape Peninsula University of Techn
 I learnt: to arc weld; to use a lathe machine; design automation with pneumatics; applied
 metrology; CNC machining; heat tempering and hardening; and Computer Aided Drafting
 
-## What I am up to at the moment
+# What I am up to at the moment
 I am currently still completing my Masters degree. The courses I have taken include:
 
 * Embedded Systems
@@ -51,19 +51,18 @@ I am currently still completing my Masters degree. The courses I have taken incl
 
 I am also currently working on my Winter quarter project which is to make an autonomous Ukulele player.
 
-## Additional Skills and Experience
+# Additional Skills and Experience
 ### Programming Languages
 * Python
-* C
+* C/C++
 * Java
 * MATLAB
-* C++
 * Mathematica
 
 ### Software Experience
-* Linux and Windows Operating systems.
-* Altium, LT Spice, Simulink, OpenCV, Onshape, LabView, Arduino IDE, Android Studio
-* ROS (Robot Operating System).
+* ROS (Robot Operating System), Git, TeX, Arduino IDE, Android Studio, OpenCV
+* Altium, LT Spice, Simulink, Onshape, LabView, SolidWorks
+* Linux and Windows Operating systems
 
 ### Practical Engineering
 * PCB Design
@@ -72,7 +71,7 @@ I am also currently working on my Winter quarter project which is to make an aut
 * Laser Cutting
 * CAD Design
 
-## Languages
+### Languages
 * English (Native language)
 * Afrikaans
 * Hebrew
