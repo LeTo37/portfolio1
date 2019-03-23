@@ -24,7 +24,7 @@ These solenoids are controlled using a PIC32MX795F512H microcontroller and a dri
 The mechanical design of this project can be boiled down to 4 main objectives, it had to securely house the Ukulele, it had to place the solenoid bank in the correct position so as to be able to hit the right chords, it had to be stable and it had to be able to handle any heat dissapation from the solenoids. The final result of these objectives can be seen in both ".stl" format and in real life below:
 
 <p align="center">
-<script src="https://embed.github.com/view/3d/LeTo37/Ukulele_Player/blob/master/Mechanical_Designs/Full_Assembly.stl" width="30%"></script>
+<script src="https://embed.github.com/view/3d/LeTo37/Ukulele_Player/master/Mechanical_Designs/Full_Assembly.stl"></script>
 </p>
 
 <p align="center">
@@ -35,8 +35,9 @@ The design can be further broken down into **3D printed parts** and **Laser Cut 
 The 3D printed parts were responsible for housing the Ukulele as well as providing stability to the design. As such a wide based structure shaped around the Ukulele was designed. This design is shown the stl file below.
 
 <p align="center">
-<script src="https://embed.github.com/view/3d/LeTo37/Ukulele_Player/blob/master/Mechanical_Designs/3D_Prints/Base_and_Uke_Housing.stl" width="30%"></script>
+<script src="https://embed.github.com/view/3d/LeTo37/Ukulele_Player/master/Mechanical_Designs/3D_Prints/Base_and_Uke_Housing.stl"></script>
 </p>
+
 
 The laser cut parts were responsible for housing the solenoids above the right part of the Ukulele such that they are able to press chords. Three layers were designed such that the solenoids would be compressed from the bottom and top as well as aligned in the middle. This three layer design was chosen so that the solenoids can receive airflow to prevent overheating. Each layer fits around the threadbars as can be seen in the full assembly above and the layers are seperated by nuts on the threadbars. The three layers shown from left to right are a birds eye view of the top, middle and bottom layer respectively.
 
