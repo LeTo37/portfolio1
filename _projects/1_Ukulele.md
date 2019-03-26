@@ -9,7 +9,7 @@ permalink: "Human-Robot Ukulele Player.html"
 ## Overview
 This Project was to design, build, program and eventually play a Human-Robot Ukulele Player or H-RUP! The inspiration for this project came from a love of music, a will to learn the Ukulele and lack of being able to do so, so why not build a robot to help!
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6njqYxu-veQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/SKRP2N837I4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
